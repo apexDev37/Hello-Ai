@@ -1,0 +1,5 @@
+# Base -r
+
+langchain                 # Abstraction tool for LLMs
+openai                    # Access to Open AI's API
+python-dotenv             # Load and read dotenv files
