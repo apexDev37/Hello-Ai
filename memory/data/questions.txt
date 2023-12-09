@@ -1,0 +1,14 @@
+# Here are a list of demo user questions based on the `conversation.txt` file
+# that you can try querying the LLM to test conversation memory.
+
+User: Wow, that dinner with friends was amazing! Remember that incredible dessert?
+
+User: Definitely a memory to cherish. What was the name of the restaurant again?
+
+User: It was a night full of laughter. Who probably made the group laugh most?
+
+User:  What would you say was the highlight of the evening?
+
+User: Did you notice anything interesting about Mark's behavior during the dinner?
+
+User: What was it like beyond the dim lighting and fairy lights?
